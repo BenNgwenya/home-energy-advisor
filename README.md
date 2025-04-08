@@ -12,7 +12,7 @@ A rule-based expert system that provides personalized energy-saving recommendati
 
 ## 🚀 How to Run
 
-### Option 1: Google Colab (Recommended)
+### Google Colab (Recommended)
 1. Open [this Colab notebook]([https://colab.research.google.com/](https://colab.research.google.com/drive/18FN0HSfL7CwiH2T5oEp2RcZTlQWdcbQ3?usp=sharing)) (or upload `app.py`)
 2. Run these commands in order:
 ```python
