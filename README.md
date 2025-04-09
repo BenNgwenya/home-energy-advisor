@@ -4,11 +4,33 @@ A rule-based expert system that provides personalized energy-saving recommendati
 
 ![image](https://github.com/user-attachments/assets/3d52fe6e-f9fc-4322-86f4-69c1ab003223)
 
-## Features
+## Components
 - Rules covering energy consumption issues across 5 categories
 - SQLite database for efficient rule storage
 - Web interface
 - Personalized recommendations based on home profile
+
+  An intelligent assistant that helps users track, analyze, and reduce their home energy usage. Get personalized tips, monitor your devices, and lower your utility bills while contributing to a greener planet.
+
+---
+
+##  Features
+
+- **Real-Time Energy Monitoring**  
+  Track your home's electricity, gas, and water usage with smart meters or manual input.
+
+- **Smart Recommendations**  
+  Personalized energy-saving tips based on user behavior and seasonal trends.
+
+- **Analytics Dashboard**  
+  Visualize historical usage, cost trends, and environmental impact over time.
+
+-  **Appliance-Level Insights**  
+  Identify which devices consume the most energy and how to optimize their usage.
+
+- **Alerts & Goals**  
+  Set consumption goals and receive alerts for abnormal usage or high consumption.
+
 
 ## 🚀 How to Run
 
